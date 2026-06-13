@@ -1,4 +1,4 @@
-package components;
+package section1;
 
 /*
  * JDK , JRE and JVM is a main component of the java.
